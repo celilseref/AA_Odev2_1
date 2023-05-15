@@ -1,13 +1,6 @@
 # AA_Odev2_1
-Bize verilen kod nasıl çalışır ve amacı nedir?
-İlk olarak, kod bloğu bir dizi fonksiyon çağrısı ve birkaç değişken tanımı içerir. Fonksiyonlar, diziler ve değişkenlerin ne işe yaradığını açıklamak için kod bloğunu adım adım inceleyebiliriz. 
-generate() fonksiyonu rastgele sayılar oluşturur ve bunları bir diziye kaydeder. 
-function1() fonksiyonu, dizideki sayıları sıralar. 
-function2() fonksiyonu, dizideki sayıların ortalamasını hesaplar. 
-function3() fonksiyonu, bir grafikteki en kısa yolu bulmak için Floyd-Warshall algoritmasını kullanır. 
-print1(), print2(), ve print3() fonksiyonları, dizileri ve matrisleri ekrana yazdırır.
 
-Kullanım alanları nelerdir?
+Bu iki kodun kullanım alanları nelerdir?
 Bu kod, bir sayının asal çarpanlarını bulan bir işlevi gerçekleştiriyor. Günlük hayatta aşağıdaki gibi çeşitli kullanım alanlarına sahip olabilir:
 
 Matematiksel Hesaplamalar: Sayı teorisi veya matematiksel problemlerle ilgilenenler bu işlevi kullanabilir. Örneğin, bir sayının asal çarpanlarını bulmak veya verilen bir sayının tam bölenlerini bulmak gibi durumlarda kullanılabilir.
@@ -20,4 +13,4 @@ Algoritmalar ve Programlama: Bazı algoritmaların veya programların gerçekle�
 
 Eğitim ve Öğrenme: Matematik derslerinde veya programlama eğitiminde asal sayılar ve bu işlev üzerinde yapılan hesaplamaların örnek olarak kullanılması mümkündür. Öğrencilerin asal sayılarla ilgili kavramları ve hesaplamaları anlamalarına yardımcı olabilir.
 
-Kodu çalıştırmak için Dev C++ IDE'sini kullandım.
+Kodu çalıştırmak için Dev C++ IDE'sini kullanabilirsiniz.
